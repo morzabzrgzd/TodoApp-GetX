@@ -1,4 +1,4 @@
-# frontend
+# Todo App GetX
 
 A new Flutter project.
 
